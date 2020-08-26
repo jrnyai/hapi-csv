@@ -26,17 +26,17 @@
     "@hapi/hoek": "^9.0.4",
     "exceljs": "^4.1.1",
     "fast-csv": "^4.3.1",
-    "xlsx": "^0.16.4"
+    "xlsx": "^0.16.6"
   },
   "devDependencies": {
-    "@hapi/code": "^8.0.1",
-    "@hapi/joi": "^17.1.1",
-    "@hapi/lab": "^22.0.4",
-    "@hapi/hapi": "^19.2.0"
+    "@hapi/code": "^8.0.2",
+    "@hapi/hapi": "^20.0.0",
+    "@hapi/lab": "^23.0.0",
+    "joi": "^17.2.1"
   },
   "peerDependencies": {
-    "@hapi/hapi": ">=19.1.1",
-    "@hapi/joi": ">=17.1.1"
+    "@hapi/hapi": ">=20.0.0",
+    "joi": ">=17.2.1"
   },
   "engines": {
     "node": ">=12.18.0"
